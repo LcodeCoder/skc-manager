@@ -1,6 +1,9 @@
 <script setup lang="ts">
-import { RouterView } from 'vue-router'
 </script>
+
 <template>
-  <RouterView />
+  hello word
 </template>
+
+<style scoped>
+</style>
